@@ -1,0 +1,1 @@
+Clause D98 of conformance (section 3.10) of the Unicode standard states, "The UTF-16 encoding scheme may or may not begin with a BOM.
