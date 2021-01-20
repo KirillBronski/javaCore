@@ -46,7 +46,6 @@ public class XOGameHW03 {
             System.out.println("Введите свои координаты: ");
             x = SCANNER.nextInt() - 1;
             y = SCANNER.nextInt() - 1;
-
         } while (!isValidCell(y,x) || !isEmptyCell(y,x));
         map[y][x] = HUMAN_DOT;
     }
